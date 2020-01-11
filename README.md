@@ -1,10 +1,12 @@
-# jobnote
+# Job Notes
 
-A new Flutter application.
+In this app you can save any notes special to your work.
 
-## Getting Started
+## Learned
 
-This project is a starting point for a Flutter application.
+- Connect Flutter App by SQLite database.
+- Using Async to fast load data from database and display into ListView.
+
 
 A few resources to get you started if this is your first Flutter project:
 
