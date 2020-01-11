@@ -1,6 +1,7 @@
 # Job Notes
 
-In this app you can save any notes special to your work.
+Flutter APP save any notes special to your work.
+[Google Play](https://play.google.com/store/apps/details?id=com.jobnote.islam.jobnote)
 
 ## Learned
 
